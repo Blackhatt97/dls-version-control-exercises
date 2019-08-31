@@ -1,7 +1,3 @@
-## Exercises
-
-
-
 ## Cheatsheet
 
 A collection of useful shell commands to use throughout the exercises:
@@ -40,4 +36,10 @@ rm new-file.txt
 echo "Hello World!" > new-file.txt
 # Append stuff to a file
 echo "Hello World!" >> new-file.txt
+
+# Print content of a file
+cat new-file.txt # Don't use it on large files
+
+# Read content of file, but don't write the lines in the terminal
+less new-file.txt # press 'q' to exit, use arrow to move up and down
 ```
