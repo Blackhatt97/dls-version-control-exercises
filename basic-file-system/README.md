@@ -1,3 +1,7 @@
+## Exercises
+
+
+
 ## Cheatsheet
 
 A collection of useful shell commands to use throughout the exercises:
