@@ -4,7 +4,7 @@
 
 ### On Your Local Machine
 
-- Clone this repository
+- Fork this repository
 - Go into the folder you want to solve an exercise in
 - Run the `setup.sh` script
 - Consult the README.md in that folder to get a description of the exercise
